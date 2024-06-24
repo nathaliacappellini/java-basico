@@ -9,7 +9,6 @@ Bem-vindo ao repositório `dio-java-basico`! Este repositório contém todo o c�
 - [Pré-requisitos](#pré-requisitos)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Sobre o Curso
 
