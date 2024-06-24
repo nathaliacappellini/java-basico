@@ -61,7 +61,7 @@ Para executar os exemplos de código deste repositório, você precisará ter o 
 
 1. Clone este repositório para a sua máquina local:
   ```sh
-   git clone https://github.com/seu-usuario/dio-java-basico.git
+   git clone https://github.com/NathaliaCappellini/dio-java-basico.git
   ```
 2. Navegue até o diretório do repositório clonado:
   ```sh
