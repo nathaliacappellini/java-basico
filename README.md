@@ -94,4 +94,4 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repo
 5. Abra um Pull Request descrevendo as mudanças propostas.  
 ---
   
-Esperamos que este repositório seja útil para os seus estudos e que você aproveite ao máximo o curso de Java Básico! Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos!
+Esperamos que este repositório seja útil para os seus estudos e que você aproveite ao máximo o curso de Java Básico! Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
