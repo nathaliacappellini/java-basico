@@ -17,6 +17,4 @@ public static String nomeCompleto (String primeiroNome, String segundoNome) {
 
     //Podemos concatenar usando o "+" ou o ".concat"
     return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
-}
-
-}
+}}
