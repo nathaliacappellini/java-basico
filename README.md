@@ -12,8 +12,9 @@ Bem-vindo ao repositório `dio-java-basico`! Este repositório contém todo o c�
 
 ## Sobre o Curso
 
-O curso de Java Básico da Digital Innovation One tem como objetivo ensinar os fundamentos da linguagem de programação Java. Durante o curso, são abordados conceitos essenciais como:
+O curso de Java Básico da DIO tem como objetivo ensinar os fundamentos da linguagem de programação Java. Durante o curso, são abordados conceitos essenciais como:
 
+- Anatomia das Classes
 - Variáveis e Tipos de Dados
 - Operadores
 - Controle de Fluxo
@@ -57,13 +58,13 @@ dio-java-basico/
 Para executar os exemplos de código deste repositório, você precisará ter o seguinte instalado em sua máquina:
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - versão 11 ou superior
-- Um ambiente de desenvolvimento integrado (IDE) como [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/)
+- Um ambiente de desenvolvimento integrado (IDE) como [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/), [NetBeans](https://netbeans.apache.org/front/main/download/nb18/) ou [Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Como Usar
 
 1. Clone este repositório para a sua máquina local:
   ```sh
-   git clone https://github.com/NathaliaCappellini/dio-java-basico.git
+   git clone https://github.com/nathaliacappellini/dio-java-basico.git
   ```
 2. Navegue até o diretório do repositório clonado:
   ```sh
@@ -95,4 +96,4 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repo
 5. Abra um Pull Request descrevendo as mudanças propostas.  
 ---
   
-Esperamos que este repositório seja útil para os seus estudos e que você aproveite ao máximo o curso de Java Básico! Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
+Espero que o meu repositório seja útil para os seus estudos, como foi para os meus. 😊 Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
