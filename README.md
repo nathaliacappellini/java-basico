@@ -27,24 +27,26 @@ A estrutura do repositório é organizada de acordo com os módulos e aulas do c
 
 ```sh
 dio-java-basico/
-├── 01-variaveis-tipos-dados/
+├── 01-anatomia-classes/
+│ ├── ExemploAnatomia.java
+├── 02-variaveis-tipos-dados/
 │ ├── ExemploVariaveis.java
 │ ├── ExemploTiposDados.java
 │ └── ... 
-├── 02-operadores/
+├── 03-operadores/
 │ ├── ExemploOperadores.java
 │ └── ...
-├── 03-controle-fluxo/
+├── 04-controle-fluxo/
 │ ├── ExemploIfElse.java
 │ └── ...
-├── 04-estruturas-dados/
+├── 05-estruturas-dados/
 │ ├── ExemploArrays.java
 │ └── ...
-├── 05-poo/
+├── 06-poo/
 │ ├── ExemploClasses.java
 │ ├── ExemploHeranca.java
 │ └── ...
-├── 06-excecoes/
+├── 07-excecoes/
 │ ├── ExemploTryCatch.java
 │ └── ...
 └── README.md
