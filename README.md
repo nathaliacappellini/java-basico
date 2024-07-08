@@ -30,6 +30,7 @@ A estrutura do repositório é organizada de acordo com os módulos e aulas do c
 dio-java-basico/
 ├── 01-anatomia-classes/
 │ ├── ExemploAnatomia.java
+│ └── ... 
 ├── 02-variaveis-tipos-dados/
 │ ├── ExemploVariaveis.java
 │ ├── ExemploTiposDados.java
