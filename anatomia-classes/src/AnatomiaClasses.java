@@ -1,91 +1,87 @@
 public class AnatomiaClasses {
     public static void main(String[] args) throws Exception {
 
-        /* 
-
-        Uma breve descrição sobre a Anatomia das Classes:
+    //Uma breve descrição sobre a Anatomia das Classes:
         
-        -Declaração do pacote:
+        //Declaração do pacote:
 
             package com.example;
         
 
-        -Importações (se necessário):
+        //Importações (se necessário):
 
             import java.util.Date;
         
 
-        -Definição da classe:
+        //Definição da classe:
 
-            public class Pessoa{
+            public class pessoa{
             }
 
 
-        -Atributos (ou campos) da classe:
+        //Atributos (ou campos) da classe:
 
             private String nome;
             private int idade;
             private Date dataDeNascimento;
         
 
-        -Construtor padrão (sem argumentos):
+        //Construtor padrão (sem argumentos):
 
             public Pessoa() {
             }
         
 
-        -Construtor com argumentos:
+        //Construtor com argumentos:
 
-            public Pessoa(String nome, int idade, Date dataDeNascimento) {
+            public Pessoa(String nome, int idade, Date dataDeNascimento) {{
+                
                 this.nome = nome;
                 this.idade = idade;
                 this.dataDeNascimento = dataDeNascimento;
-            }
-        
+            }}
+            
 
-        -Métodos getter e setter (encapsulamento):
+        //Métodos getter e setter (encapsulamento):
 
-            public String getNome() {
+            public String getNome() {{
                 return nome;
-            }
+            }}
         
-            public void setNome(String nome) {
+            public void setNome(String nome) {{
                 this.nome = nome;
-            }
+            }}
         
-            public int getIdade() {
+            public int getIdade() {{
                 return idade;
-            }
+            }}
         
-            public void setIdade(int idade) {
+            public void setIdade(int idade) {{
                 this.idade = idade;
-            }
+            }}
         
-            public Date getDataDeNascimento() {
+            public Date getDataDeNascimento() {{
                 return dataDeNascimento;
-            }
+            }}
         
-            public void setDataDeNascimento(Date dataDeNascimento) {
+            public void setDataDeNascimento(Date dataDeNascimento) {{
                 this.dataDeNascimento = dataDeNascimento;
-            }
+            }}
         
 
-        -Método de instância (comportamento):
+        //Método de instância (comportamento):
 
-            public void mostrarDetalhes() {
+            public void mostrarDetalhes() {{
                 System.out.println("Nome: " + nome);
                 System.out.println("Idade: " + idade);
                 System.out.println("Data de Nascimento: " + dataDeNascimento);
-            }
+            }}
         
 
-        -Método estático:
+        //Método estático:
 
-            public static void mostrarMensagem() {
+            public static void mostrarMensagem() {{
                 System.out.println("Olá! Este é um método estático da classe Pessoa.");
-            }} 
-        
-
-        */
+            }}   
     }
 }
