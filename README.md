@@ -30,8 +30,8 @@ A estrutura do repositório é organizada de acordo com os módulos e aulas do c
 dio-java-basico/
 ├── 01-anatomia-classes/
 │ └──  src/
-│   ├── AnatomiaClasses.java
-│   └── MinhaClasse.java
+│   ├── MinhaClasse.java
+│   └── Pessoa.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
 ├── 02-variaveis-tipos-dados/
@@ -53,6 +53,7 @@ dio-java-basico/
 ├── 07-excecoes/
 │ ├── ExemploTryCatch.java
 │ └── ...
+├── .gitignore
 └── README.md
 ```
 
