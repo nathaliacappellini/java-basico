@@ -63,38 +63,46 @@ Para executar os exemplos de código deste repositório, você precisará ter o 
 ## Como Usar
 
 1. Clone este repositório para a sua máquina local:
-  ```sh
-   git clone https://github.com/nathaliacappellini/dio-java-basico.git
-  ```
+
+    ```sh
+    git clone https://github.com/nathaliacappellini/dio-java-basico.git
+    ```
+
 2. Navegue até o diretório do repositório clonado:
-  ```sh
-  cd dio-java-basico
-  ```
+
+    ```sh
+    cd dio-java-basico
+    ```
+
 3. Abra o projeto em sua IDE preferida.
-
 4. Navegue até o arquivo Java que deseja executar.
-
 5. Compile e execute o arquivo diretamente da sua IDE.
 
 ## Contribuição
+
 Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repositório, siga os passos abaixo:
 
 1. Faça um fork deste repositório.
-
 2. Crie uma nova branch com a sua feature ou correção de bug:
-  ```sh
-  git checkout -b minha-feature
-  ```
+
+    ```sh
+    git checkout -b minha-feature
+    ```
+
 3. Faça as modificações necessárias e commit:
-  ```sh
-  git commit -m 'Minha nova feature'
-  ```
+
+    ```sh
+    git commit -m 'Minha nova feature'
+    ```
+
 4. Envie para o seu repositório forkado:
-  ```sh
-  git push origin minha-feature
-  ```
+
+    ```sh
+    git push origin minha-feature
+    ```
+
 5. Abra um Pull Request descrevendo as mudanças propostas.  
-  
+
 ##
 Espero que o meu repositório seja útil para os seus estudos, como foi para os meus. 😊 Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
 <div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
