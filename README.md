@@ -29,8 +29,11 @@ A estrutura do repositório é organizada de acordo com os módulos e aulas do c
 ```sh
 dio-java-basico/
 ├── 01-anatomia-classes/
-│ ├── AnatomiaClasses.java
-│ └── ... 
+│ └──  src/
+│   ├── AnatomiaClasses.java
+│   └── MinhaClasse.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
 ├── 02-variaveis-tipos-dados/
 │ ├── TiposVariaveis.java
 │ └── ... 
