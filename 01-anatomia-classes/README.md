@@ -1,18 +1,33 @@
-## Getting Started
+# 01-anatomia-classes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Essa parte do projeto de estudo têm como objetivo descrever a anatomia das classes em Java. Aqui eu deixei os conceitos fundamentais relacionados à estrutura de uma classe. 
 
-The workspace contains two folders by default, where:
+## Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto aborda os seguintes tópicos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Estrutura básica de uma classe Java
+- Definição de atributos
+- Definição de métodos
+- Construtores
+- Modificadores de acesso (public, private, protected)
+- Criação e uso de objetos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Estrutura do Projeto
 
-## Dependency Management
+```sh
+01-anatomia-classes/
+├── src/
+│ ├── AnatomiaClasses.java
+│ └── MinhaClasse.java
+├── MaterialEstudo.ipynb
+└── README.md
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Recursos 
+
+Como material adicional eu deixei dentro do diretório `01-anatomia-classes` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que ultilizei para estudo. Para mais informações sobre a anatomia das classes em Java, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html).  
+
+<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
