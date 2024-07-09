@@ -1,6 +1,6 @@
-## dio-java-basico
+# dio-java-basico
 
-Bem-vindo ao repositório `dio-java-basico`! Este repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
+Bem-vindo ao repositório `dio-java-basico`! Esse repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
 
 ## Índice
 
