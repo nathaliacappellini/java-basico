@@ -107,5 +107,5 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repo
 5. Abra um Pull Request descrevendo as mudanças propostas.  
 
 ##
-Espero que o meu repositório seja útil para os seus estudos, como foi para os meus. 😊 Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
+Espero que o meu repositório seja útil para os seus estudos, como foi para os meus. Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
 <div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
