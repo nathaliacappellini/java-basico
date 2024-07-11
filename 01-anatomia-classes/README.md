@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo têm como objetivo descrever a anatomia das classes em Java. Aqui eu deixei os conceitos fundamentais relacionados à estrutura de uma classe. 
+Essa parte do projeto de estudo têm como objetivo descrever a anatomia das classes em Java. Aqui eu deixei os conceitos fundamentais relacionados à estrutura de uma classe.
 
 ## Conteúdo
 
@@ -26,8 +26,8 @@ O projeto aborda os seguintes tópicos:
 └── README.md
 ```
 
-## Recursos 
+## Recursos
 
-Como material adicional eu deixei dentro do diretório `01-anatomia-classes` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que ultilizei para estudo. Para mais informações sobre a anatomia das classes em Java, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html).  
+Como material adicional eu deixei dentro do diretório `01-anatomia-classes` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre a anatomia das classes em Java, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html).  
 
 <div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>

@@ -1,18 +1,34 @@
-## Getting Started
+# 02-variaveis-tipos-dados
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Essa parte do projeto de estudo tem como objetivo descrever os tipos de variáveis em Java, assim como a classe `String`. Ele explora os tipos de dados primitivos, variáveis de referência, e as operações básicas com Strings.
 
-The workspace contains two folders by default, where:
+## Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto aborda os seguintes tópicos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Tipos de dados primitivos
+- Declaração e inicialização de variáveis
+- Variáveis de referência
+- Conversão de tipos
+- A classe `String`
+  - Criação e manipulação de Strings
+  - Métodos comuns da classe `String`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Estrutura do Projeto
 
-## Dependency Management
+```bs
+02-variaveis-tipos-dados/
+├── src/
+│ ├── ClasseString.java
+│ └── VariaveisTipos.java
+├── MaterialEstudo.ipynb
+└── README.md
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Recursos
+
+Como material adicional eu deixei dentro do diretório `02-variaveis-tipos-dados` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre Variáveis e Tipos de Dados, ou, Classe String você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html) e [Java Platform SE 11](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html).
+
+<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
