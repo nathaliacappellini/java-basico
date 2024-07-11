@@ -29,6 +29,6 @@ O projeto aborda os seguintes tópicos:
 
 ## Recursos
 
-Como material adicional eu deixei dentro do diretório `02-variaveis-tipos-dados` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre Variáveis e Tipos de Dados, ou, Classe String você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html) e [Java Platform SE 11](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html).
+Como material adicional eu deixei dentro do diretório `02-variaveis-tipos-dados` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre Variáveis e Tipos de Dados ou Classe String, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html) e [Java Platform SE 11](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html).
 
 <div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
