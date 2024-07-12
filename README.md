@@ -49,17 +49,12 @@ dio-java-basico/
 │   └── Usuario.java
 │ └── README.md
 ├── 04-controle-fluxo/
-│ ├── ExemploIfElse.java
 │ └── ...
 ├── 05-estruturas-dados/
-│ ├── ExemploArrays.java
 │ └── ...
 ├── 06-poo/
-│ ├── ExemploClasses.java
-│ ├── ExemploHeranca.java
 │ └── ...
 ├── 07-excecoes/
-│ ├── ExemploTryCatch.java
 │ └── ...
 ├── .gitignore
 └── README.md
