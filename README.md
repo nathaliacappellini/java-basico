@@ -43,7 +43,10 @@ dio-java-basico/
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
 ├── 03-operadores/
-│ └── ...
+│ └──  src/
+│   └── OperadoresExemplos.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
 ├── 04-metodos/
 │ └── ...
 ├── sistema-smart-tv/
