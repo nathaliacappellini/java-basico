@@ -1,6 +1,6 @@
-# 📚 dio-java-basico
+# 📚 java-basico-dio
 
-Bem-vindo ao repositório `dio-java-basico`! 🖖🏻 Esse repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
+Bem-vindo ao repositório `java-basico-dio`! 🖖🏻 Esse repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
 
 ## Índice
 
@@ -29,7 +29,7 @@ Esse repositório tem como objetivo ensinar os fundamentos da linguagem de progr
 A estrutura do repositório é organizada de acordo com os módulos do curso:
 
 ```sh
-dio-java-basico/
+java-basico-dio/
 ├── 01-anatomia-classes/
 │ └──  src/
 │   ├── MinhaClasse.java
@@ -77,13 +77,13 @@ Para executar os exemplos de código deste repositório, você precisará ter o 
 1. Clone este repositório para a sua máquina local:
 
     ```sh
-    git clone https://github.com/nathaliacappellini/dio-java-basico.git
+    git clone https://github.com/nathaliacappellini/java-basico-dio.git
     ```
 
 2. Navegue até o diretório do repositório clonado:
 
     ```sh
-    cd dio-java-basico
+    cd java-basico-dio
     ```
 
 3. Abra o projeto em sua IDE preferida.
