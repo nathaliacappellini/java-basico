@@ -1,6 +1,6 @@
-# dio-java-basico
+# 📚 dio-java-basico
 
-Bem-vindo ao repositório `dio-java-basico`! Esse repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
+Bem-vindo ao repositório `dio-java-basico`! 🖖🏻 Esse repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
 
 ## Índice
 
@@ -12,11 +12,13 @@ Bem-vindo ao repositório `dio-java-basico`! Esse repositório contém todo o c�
 
 ## Sobre o Curso
 
-O curso de Java Básico da DIO tem como objetivo ensinar os fundamentos da linguagem de programação Java. Durante o curso, são abordados conceitos essenciais como:
+Esse repositório tem como objetivo ensinar os fundamentos da linguagem de programação Java. Serão abordados conceitos essenciais como:
 
 - Anatomia das Classes
 - Variáveis e Tipos de Dados
 - Operadores
+- Métodos
+- Escopo e Palavras Reservadas
 - Controle de Fluxo
 - Estruturas de Dados
 - Programação Orientada a Objetos (POO)
@@ -24,7 +26,7 @@ O curso de Java Básico da DIO tem como objetivo ensinar os fundamentos da lingu
 
 ## Estrutura do Repositório
 
-A estrutura do repositório é organizada de acordo com os módulos e aulas do curso:
+A estrutura do repositório é organizada de acordo com os módulos do curso:
 
 ```sh
 dio-java-basico/
@@ -41,20 +43,23 @@ dio-java-basico/
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
 ├── 03-operadores/
-│ ├── ExemploOperadores.java
+│ └── ...
+├── 04-metodos/
 │ └── ...
 ├── sistema-smart-tv/
 │ └──  src/
 │   ├── SmartTv.java
 │   └── Usuario.java
 │ └── README.md
-├── 04-controle-fluxo/
+├── 05-escopo-palavras-reservadas/
 │ └── ...
-├── 05-estruturas-dados/
+├── 06-controle-fluxo/
 │ └── ...
-├── 06-poo/
+├── 07-estruturas-dados/
 │ └── ...
-├── 07-excecoes/
+├── 08-poo/
+│ └── ...
+├── 09-excecoes/
 │ └── ...
 ├── .gitignore
 └── README.md
@@ -87,7 +92,7 @@ Para executar os exemplos de código deste repositório, você precisará ter o 
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repositório, siga os passos abaixo:
+Contribuições serão bem-vindas! Se você deseja melhorar o conteúdo deste repositório, siga os passos abaixo:
 
 1. Faça um fork deste repositório.
 2. Crie uma nova branch com a sua feature ou correção de bug:
@@ -96,7 +101,7 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo deste repo
     git checkout -b minha-feature
     ```
 
-3. Faça as modificações necessárias e commit:
+3. Faça as modificações necessárias e dê commit:
 
     ```sh
     git commit -m 'Minha nova feature'
