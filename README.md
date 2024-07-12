@@ -43,6 +43,11 @@ dio-java-basico/
 ├── 03-operadores/
 │ ├── ExemploOperadores.java
 │ └── ...
+├── sistema-smart-tv/
+│ └──  src/
+│   ├── SmartTv.java
+│   └── Usuario.java
+│ └── README.md
 ├── 04-controle-fluxo/
 │ ├── ExemploIfElse.java
 │ └── ...
