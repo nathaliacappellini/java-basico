@@ -1,18 +1,31 @@
-## Getting Started
+# 06-escopo-palavras-reservadas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Essa parte do projeto de estudo tem como objetivo falar um pouco mais sobre Escopo e Palavras Reservadas em Java.
 
-The workspace contains two folders by default, where:
+## Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto aborda os seguintes tópicos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Escopo
+  - Escopo de Classe
+  - Escopo de Método
+  - Escopo de Bloco
+- Palavras Reservadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Estrutura do Projeto
 
-## Dependency Management
+```bs
+06-escopo-palavras-reservadas/
+├── src/
+│ └── EscopoExemplo.java
+├── MaterialEstudo.ipynb
+└── README.md
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Recursos
+
+Como material adicional eu deixei dentro do diretório `06-escopo-palavras-reservadas` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre operadores, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/8/docs/) ou [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/).
+
+<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>

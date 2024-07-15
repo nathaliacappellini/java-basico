@@ -48,14 +48,20 @@ java-basico-dio/
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
 ├── 04-metodos/
-│ └── ...
+│ └──  src/
+│   └── CalculadoraExemplo.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
 ├── 05-sistema-smart-tv/
 │ └──  src/
 │   ├── SmartTv.java
 │   └── Usuario.java
 │ └── README.md
 ├── 06-escopo-palavras-reservadas/
-│ └── ...
+│ └──  src/
+│   └── EscopoExemplo.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
 ├── 07-controle-fluxo/
 │ └── ...
 ├── 08-estruturas-dados/
