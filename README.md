@@ -57,20 +57,31 @@ java-basico-dio/
 │   ├── SmartTv.java
 │   └── Usuario.java
 │ └── README.md
-├── 06-escopo-palavras-reservadas/
+├── 06-escopo-e-palavras-reservadas/
 │ └──  src/
 │   └── EscopoExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
-├── 07-controle-fluxo/
+├── 07-java-doc/
+│ └──  src/
+│   └── JavaDocExemplo.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
+├── 08-terminal-e-argumentos/
+│ └──  src/
+│   └── Exemplo.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
+├── 09-controle-fluxo/
 │ └── ...
-├── 08-estruturas-dados/
+├── 10-estruturas-dados/
 │ └── ...
-├── 09-poo/
+├── 11-poo/
 │ └── ...
-├── 10-excecoes/
+├── 12-excecoes/
 │ └── ...
 ├── .gitignore
+├── LICENSE.md
 └── README.md
 ```
 

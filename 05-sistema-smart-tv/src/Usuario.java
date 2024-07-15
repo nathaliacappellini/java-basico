@@ -1,4 +1,5 @@
 public class Usuario {
+
     public static void main(String[] args) throws Exception {
 
         //Você pode testar em "BreakPoint" para testar parte por parte, marque a linha à esquerda, clique em "Debug" e aperte F10.

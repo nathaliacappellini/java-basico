@@ -1,4 +1,4 @@
-# 06-escopo-palavras-reservadas
+# 06-escopo-e-palavras-reservadas
 
 ## Descrição
 
