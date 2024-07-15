@@ -49,20 +49,20 @@ java-basico-dio/
 │ └── README.md
 ├── 04-metodos/
 │ └── ...
-├── sistema-smart-tv/
+├── 05-sistema-smart-tv/
 │ └──  src/
 │   ├── SmartTv.java
 │   └── Usuario.java
 │ └── README.md
-├── 05-escopo-palavras-reservadas/
+├── 06-escopo-palavras-reservadas/
 │ └── ...
-├── 06-controle-fluxo/
+├── 07-controle-fluxo/
 │ └── ...
-├── 07-estruturas-dados/
+├── 08-estruturas-dados/
 │ └── ...
-├── 08-poo/
+├── 09-poo/
 │ └── ...
-├── 09-excecoes/
+├── 10-excecoes/
 │ └── ...
 ├── .gitignore
 └── README.md
