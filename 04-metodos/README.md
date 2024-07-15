@@ -1,18 +1,32 @@
-## Getting Started
+# 04-metodos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Essa parte do projeto de estudo tem como objetivo descrever os Métodos em Java.
 
-The workspace contains two folders by default, where:
+## Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto aborda os seguintes tópicos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Critério de Nomeação de Métodos
+- Definição de um Método
+- Critério de Definição de Métodos
+- Chamando Métodos
+- Métodos Estáticos
+- Sobrecarga de Métodos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Estrutura do Projeto
 
-## Dependency Management
+```bs
+04-metodos/
+├── src/
+│ └── CalculadoraExemplo.java
+├── MaterialEstudo.ipynb
+└── README.md
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Recursos
+
+Como material adicional eu deixei dentro do diretório `04-metodos` um aquivo chamado `MaterialEstudo.ipynb` que seria todo o material que utilizei para estudo. Para mais informações sobre operadores, você pode consultar a [documentação oficial](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html).
+
+<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
