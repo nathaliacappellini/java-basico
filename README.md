@@ -19,6 +19,8 @@ Esse repositório tem como objetivo ensinar os fundamentos da linguagem de progr
 - Operadores
 - Métodos
 - Escopo e Palavras Reservadas
+- Java Doc
+- Terminal e Argumentos
 - Controle de Fluxo
 - Estruturas de Dados
 - Programação Orientada a Objetos (POO)
@@ -28,7 +30,7 @@ Esse repositório tem como objetivo ensinar os fundamentos da linguagem de progr
 
 A estrutura do repositório é organizada de acordo com os módulos do curso:
 
-```sh
+```c
 java-basico-dio/
 ├── 01-anatomia-classes/
 │ └──  src/
