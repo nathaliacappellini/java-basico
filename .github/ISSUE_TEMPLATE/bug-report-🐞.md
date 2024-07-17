@@ -7,7 +7,7 @@ assignees: nathaliacappellini
 
 ---
 
-Olá, pessoa! Parece que você encontrou um probleminha no meu projeto. Vamos resolver isso?
+# Olá, pessoa! Parece que você encontrou um probleminha no meu projeto. Vamos resolver isso?
 
 ## O que aconteceu?
 
