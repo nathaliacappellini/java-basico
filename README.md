@@ -1,6 +1,6 @@
-# 📚 java-basico-dio
+# 📚 java-basico
 
-Bem-vindo ao repositório `java-basico-dio`! 🖖🏻 Esse repositório conterá todo o código-fonte desenvolvido durante o curso de Java Básico oferecido pela Digital Innovation One (DIO).
+Bem-vindo ao repositório `java-basico`! 🖖🏻 Esse repositório conterá todo o código-fonte desenvolvido durante o curso de Java Básico e tudo que usei durante meus estudos.
 
 ## Índice
 
@@ -31,7 +31,7 @@ Esse repositório tem como objetivo ensinar os fundamentos da linguagem de progr
 A estrutura do repositório é organizada de acordo com os módulos do curso:
 
 ```c
-java-basico-dio/
+java-basico/
 ├── 01-anatomia-classes/
 │ └──  src/
 │   ├── MinhaClasse.java
