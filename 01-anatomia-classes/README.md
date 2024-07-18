@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo têm como objetivo descrever a anatomia das classes em Java. Aqui eu deixei os conceitos fundamentais relacionados à estrutura de uma classe.
+Esta parte do projeto de estudo tem como objetivo descrever a anatomia das classes em Java, abordando os conceitos fundamentais relacionados à estrutura de uma classe.
 
 ## Conteúdo
 
