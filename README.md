@@ -1,16 +1,16 @@
 # 📚 java-basico
 
-Bem-vindo ao repositório `java-basico`! 🖖🏻 Esse repositório conterá todo o código-fonte desenvolvido durante o curso de Java Básico e tudo que usei durante meus estudos.
+Bem-vindo ao repositório `java-basico`! 🖖🏻 Este repositório contém todo o código-fonte desenvolvido durante o curso de Java Básico e todos os recursos utilizados durante meus estudos.
 
 ## Índice
 
-- [Sobre o Curso](#sobre-o-curso)
+- [Sobre](#sobre)
 - [Estrutura do Repositório](#estrutura-do-repositório)
 - [Pré-requisitos](#pré-requisitos)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
 
-## Sobre o Curso
+## Sobre
 
 Esse repositório tem como objetivo ensinar os fundamentos da linguagem de programação Java. Serão abordados conceitos essenciais como:
 

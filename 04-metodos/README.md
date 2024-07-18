@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo tem como objetivo descrever os Métodos em Java.
+Esta seção do projeto de estudo tem como objetivo descrever os métodos em Java.
 
 ## Conteúdo
 

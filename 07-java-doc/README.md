@@ -1,6 +1,7 @@
 # 07-java-doc
 
-Nessa parte do projeto é explicado o que é **JavaDoc** e quais as vantagens de usá-lo.
+Essa parte do projeto fornece uma introdução ao **JavaDoc**, explicando seu propósito e destacando as principais vantagens de seu uso para a documentação de código Java. 
+> A documentação gerada com o JavaDoc está no diretório `docs`. Para acessa-la e visualiza-la no navegador é só abrir o arquivo `index.html`.
 
 ## Conteúdo
 
