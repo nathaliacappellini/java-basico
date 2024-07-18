@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo tem como objetivo descrever os tipos de operadores em Java.
+Esta seção do projeto de estudo tem como objetivo descrever os tipos de operadores em Java.
 
 ## Conteúdo
 
