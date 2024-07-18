@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo tem como objetivo descrever os tipos de variáveis em Java, assim como a classe `String`. Ele explora os tipos de dados primitivos, variáveis de referência, e as operações básicas com Strings.
+Esta seção do projeto de estudo tem como objetivo descrever os tipos de variáveis em Java, incluindo a classe `String`. Ela explora os tipos de dados primitivos, variáveis de referência e as operações básicas com Strings.
 
 ## Conteúdo
 
