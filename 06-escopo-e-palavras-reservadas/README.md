@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa parte do projeto de estudo tem como objetivo falar um pouco mais sobre Escopo e Palavras Reservadas em Java.
+Esta seção do projeto de estudo tem como objetivo explorar em detalhes o **escopo** e as **palavras reservadas** em Java.
 
 ## Conteúdo
 
