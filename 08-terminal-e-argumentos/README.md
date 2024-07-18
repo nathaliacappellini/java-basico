@@ -6,10 +6,7 @@ Nesta seção do projeto, abordaremos o conceito de Terminal, explicando como ut
 
 - Terminal
   - Compilação e Execução de Programas
-  - Exemplo
 - Argumentos
-  - Exemplo
-  - Resumo do Código
   - Como executar o código com argumentos pelo terminal
 - Wrappers
   - Funcionalidades das Classes Wrapper
