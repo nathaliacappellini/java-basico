@@ -21,6 +21,7 @@ Esse repositório tem como objetivo ensinar os fundamentos da linguagem de progr
 - Escopo e Palavras Reservadas
 - Java Doc
 - Terminal e Argumentos
+- Classe Scanner
 - Controle de Fluxo
 - Estruturas de Dados
 - Programação Orientada a Objetos (POO)
@@ -72,17 +73,23 @@ java-basico/
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
 ├── 08-terminal-e-argumentos/
+│ └──  bin/
+│   ├── ArgumentosExemplo.class
+│   └── TerminalExemplo.class
 │ └──  src/
-│   └── Exemplo.java
+│   ├── ArgumentosExemplo.java
+│   └── TerminalExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
-├── 09-controle-fluxo/
+├── 09-classe-scanner/
 │ └── ...
-├── 10-estruturas-dados/
+├── 10-controle-fluxo/
 │ └── ...
-├── 11-poo/
+├── 11-estruturas-dados/
 │ └── ...
-├── 12-excecoes/
+├── 12-poo/
+│ └── ...
+├── 13-excecoes/
 │ └── ...
 ├── .gitignore
 ├── LICENSE.md
