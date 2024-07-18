@@ -1,10 +1,10 @@
 # sistema-smart-tv
 
-Nesse sistema irei testar o que foi visto anteriormente nos estudos, criando uma SmartTv e usando Métodos para controla-lá.
+Neste sistema, irei aplicar os conceitos estudados anteriormente, criando uma SmartTV e utilizando métodos para controlá-la.
 
 ## Conteúdo
 
-O conteúdo aborda tudo que foi visto anteriormente.
+O conteúdo aborda os conceitos vistos anteriormente.
 
 ## Estrutura do Projeto
 
