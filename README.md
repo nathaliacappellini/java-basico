@@ -39,32 +39,38 @@ java-basico/
 │   └── Pessoa.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 02-variaveis-tipos-dados/
 │ └──  src/
 │   ├── ClasseString.java
 │   └── VariaveisTipos.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 03-operadores/
 │ └──  src/
 │   └── OperadoresExemplos.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 04-metodos/
 │ └──  src/
 │   └── CalculadoraExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 05-sistema-smart-tv/
 │ └──  src/
 │   ├── SmartTv.java
 │   └── Usuario.java
 │ └── README.md
+│
 ├── 06-escopo-e-palavras-reservadas/
 │ └──  src/
 │   └── EscopoExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 07-java-doc/
 │ └──  docs/
 │   └── index.html
@@ -72,6 +78,7 @@ java-basico/
 │   └── JavaDocExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 08-terminal-e-argumentos/
 │ └──  bin/
 │   ├── ArgumentosExemplo.class
@@ -81,16 +88,25 @@ java-basico/
 │   └── TerminalExemplo.java
 │ ├── MaterialEstudo.ipynb
 │ └── README.md
+│
 ├── 09-classe-scanner/
-│ └── ...
+│ └── src/
+│   └── ScannerExemplo.java
+│ ├── MaterialEstudo.ipynb
+│ └── README.md
+│
 ├── 10-controle-fluxo/
 │ └── ...
+│
 ├── 11-estruturas-dados/
 │ └── ...
+│
 ├── 12-poo/
 │ └── ...
+│
 ├── 13-excecoes/
 │ └── ...
+│
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
