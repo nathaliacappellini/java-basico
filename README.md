@@ -171,4 +171,7 @@ Contribuições serão bem-vindas! Se você deseja melhorar o conteúdo deste re
 ---
 Espero que o meu repositório seja útil para os seus estudos, como foi para os meus. Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Bons estudos! 🌟
 
-<div align="center">Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>.</div>
+<div align="center">
+  <sub>Feito com 🩷 por</sub><br>
+  <strong><a href="https://github.com/nathaliacappellini" target="_blank">Nathalia Cappellini</a></strong><br>
+</div>
